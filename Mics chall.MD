@@ -72,7 +72,7 @@ The challenge gave a picture that looked like a scene from an anime, along with 
 
 Flag: **NOCT{Nika, the Sun God\!}**
 
-6\. Mudinja Kandupudi 👀
+**6\. Mudinja Kandupudi 👀**
 
 Difficulty: Medium/ 200 points
 
@@ -85,7 +85,7 @@ The challenge provided a YouTube video with the description: “BEWARE FOR FAKE 
 
 Flag: **NOCT{coco\_melon\<3}**
 
-7**. The Big 5**
++**7. The Big 5**
 
 Difficulty: Medium/ 400 points
 
