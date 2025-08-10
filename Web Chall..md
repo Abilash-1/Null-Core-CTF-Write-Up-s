@@ -32,11 +32,11 @@ ayoooo its me again ofc im again with a super cool website well sooner or later 
 
 First stop — robots.txt. Always worth a peek to see what the site doesn’t want you snooping around in. Sure enough, it had a `/unlisted/` path sitting there like a neon “come check me out” sign.
 
-![][image1]
+<img src="Desktop/unlisted.jpg" alt="Unlisted" width="300">
 
 Rolled over to that directory, and there it was `flag.txt` just chilling. Opened it up, and boom… flag secured.
 
-![][image2]
+<img src="Desktop/dumbbots.jpg" alt="DUBO" width="300">
 
 Flag: **NOCT{bots\_reveal\_too\_much}**
 
