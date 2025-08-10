@@ -54,9 +54,9 @@ its me again you guessed it right im back with another super cool website ofc sa
 
 Checked the page source and spotted a `console.log` near the bottom that screamed “look at the JS file.”
 
-\<ADD IMAGE\>
+![788e1d4f-8ed2-44d6-9ac5-cc70d858911a](https://github.com/user-attachments/assets/3577fcbb-453f-4d90-9994-4b358a94186d)
 
-\<ADD IMAGE\>
+![ff318c7a-2f27-4fc7-b51e-b22294d5e420](https://github.com/user-attachments/assets/9f24dc45-e07f-4740-8d4f-024b8125b74b)
 
 Popped open the JS in the site’s resources and saw a `parts` array loaded with Base64 chunks. Decoded them, stitched them together, and boom  full flag unlocked.
 
