@@ -72,11 +72,11 @@ hear me out okay?\! i just have one last super dexule cool website to show you j
 
 Hit the GitHub Pages URL, poked around the source and assets, and spotted a weirdly named `smaple.svg` (yep, typo).
 
-![sample](https://github.com/user-attachments/assets/80a74d33-8577-4b43-9d0f-4f51de2399fa)
+![sample](https://github.com/user-attachments/assets/05d82314-7c3a-440e-b780-01ffdb51deaf)
 
 Cracked it open and found a `<metadata>` tag holding an `EncodedFlag` value, while the `<desc>` was just there to throw me off.
 
-![meta](https://github.com/user-attachments/assets/97427fe8-b332-4173-9dc8-e597e725acfd)
+![meta](https://github.com/user-attachments/assets/b2dec508-fa3a-4fa0-8de0-b16ce206e042)
 
 Grabbed the Base64 string from the metadata, decoded it, and boom flag in hand.
 
