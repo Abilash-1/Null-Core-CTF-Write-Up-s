@@ -20,6 +20,7 @@ Decoded each of them one by one, slapped the pieces together like digital LEGO, 
 
 Flag: **NOCT{im\_just\_wasting\_ur\_time}**
 
+
 2. **Dumb Bots**
 
 **Difficulty:** Easy/ 100 points
@@ -40,6 +41,7 @@ Rolled over to that directory, and there it was `flag.txt` just chilling. Opened
 
 Flag: **NOCT{bots\_reveal\_too\_much}**
 
+
 3. **Lost In Your Eyes💗**
 
 **Difficulty:** Easy/ 200 points
@@ -59,6 +61,7 @@ Checked the page source and spotted a `console.log` near the bottom that screame
 Popped open the JS in the site’s resources and saw a `parts` array loaded with Base64 chunks. Decoded them, stitched them together, and boom  full flag unlocked.
 
 Flag: **NOCT{not\_found\_but\_achieved}**
+
 
 4. **One Last Time 🥂**
 
