@@ -32,7 +32,9 @@ ayoooo its me again ofc im again with a super cool website well sooner or later 
 
 First stop — robots.txt. Always worth a peek to see what the site doesn’t want you snooping around in. Sure enough, it had a `/unlisted/` path sitting there like a neon “come check me out” sign.
 
-<img src="Desktop/unlisted.jpg" alt="Unlisted" width="300">
+![unlisted](https://github.com/user-attachments/assets/cc34185f-c1df-4503-96ca-71d3934cafcb)
+
+<img src="Desktop/unlisted.jpg" alt="Unlisted" width="300"> 
 
 Rolled over to that directory, and there it was `flag.txt` just chilling. Opened it up, and boom… flag secured.
 
